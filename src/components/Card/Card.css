@@ -1,0 +1,13 @@
+#bigCircle {
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    bottom: -100px;
+    left: -100px;
+}
+#smallCircle {
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    bottom: -30px;
+    left: 20%;
+   
+}
