@@ -7,7 +7,7 @@ export const Balance = () => {
 
 
     return (
-        <div className="bg-green60 w-[380px] flex flex-col gap-2 text-white p-4 relative items-">
+        <div className="bg-green60 flex flex-col gap-2 text-white p-4 relative w-[380px] h-40 rounded-3xl shadow-md">
             <p>Your Balance</p>
             <p>$15,059.45</p>
             <div className="flex justify-between">

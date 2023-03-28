@@ -4,7 +4,7 @@ import './Card.css'
 
 export const Card = () => {
   return (
-    <div className='flex flex-col gap-6 p-4 w-[380px] bg-green80 text-white relative overflow-hidden rounded-3xl shadow-md'>
+    <div className='flex flex-col gap-6 p-4 w-[380px] h-40 bg-green80 text-white relative overflow-hidden rounded-3xl shadow-md'>
       <Title />
       <p className='text-lg font-bold'>4535 9037 8278 7825</p>
       <div className='flex justify-start  items-center'>
