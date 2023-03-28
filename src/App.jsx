@@ -10,10 +10,13 @@ function App() {
 
   return (
     <>
-    {/* <FirstPage /> */}
-    {/* <LoginPage /> */}
-    <MainPage />
-
+      <main className="w-screen h-screen flex justify-center items-center">
+        <div className="w-[375px] h-[600px] rounded-3xl overflow-hidden">
+          {/* <FirstPage /> */}
+          {/* <LoginPage /> */}
+          <MainPage />
+        </div>
+      </main>
     </>
   )
 }
