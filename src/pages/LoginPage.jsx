@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 export const LoginPage = () => {
     return (
@@ -12,6 +13,10 @@ export const LoginPage = () => {
                 <input type="password" name='password' id='password' placeholder='Password' className='bg-green20 p-4 rounded-xl text-white text-2xl'/>
                 <input type="submit" className='absolute bottom-0 bg-green100 p-4 w-full text-white rounded-xl' value='Sign in' />
             </form>
+            <div className='flex justify-between text-white mt-5'>
+              <p className='font-medium'>Sign Up</p>
+              <p>Need help signing in?</p>
+            </div>
         </div>
     )
 }
