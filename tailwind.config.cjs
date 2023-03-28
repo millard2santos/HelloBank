@@ -12,7 +12,8 @@ module.exports = {
         'green60' : '#83ACA7',
         'green40' : '#A3D9D4',
         'green20' : '#D4E6E4',
-        'helloColor' : '#EDC8C8'
+        'helloColor' : '#EDC8C8',
+    
       }
     },
   },

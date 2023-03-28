@@ -1,4 +1,4 @@
-import LinkCircle from "../components/LinkCircle"
+import LinkCircle from "../components/LinkCircle/LinkCircle"
 
 
 
